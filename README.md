@@ -4,7 +4,7 @@
 
 UPDATED TO VERSION 19.1.0.4 FOR POKEMON ESSENTIALS V19.1. This script is for Pokémon Essentials v19 and v19.1 (for short PEv19).
 
-As in Pokemon Let's go Pikachu/Eevee or Pokemon Shild and Sword wild encounters pop up on the overworld, they move around and you can start the battle with them simply by moving to the pokemon. Clearly, you also can omit the battle by circling around them.
+As in Pokemon Let's go Pikachu/Eevee or Pokemon Shield and Sword wild encounters pop up on the overworld, they move around and you can start the battle with them simply by moving to the pokemon. Clearly, you also can omit the battle by circling around them.
 
 
 ### NEW FEATURES
